@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sunglasses Classic",
+    "description": "Timeless sunglasses for all occasions.",
+    "price": 49.99,
+    "image": "sunglasses1.jpg",
+    "stock": 20,
+    "category": "Eyewear"
+  },
+  {
+    "name": "Modern Aviator",
+    "description": "Trendy aviator sunglasses.",
+    "price": 59.99,
+    "image": "aviator.jpg",
+    "stock": 15,
+    "category": "Eyewear"
+  },
+  {
+    "name": "Blue Light Glasses",
+    "description": "Protect your eyes from screens.",
+    "price": 39.99,
+    "image": "bluelight.jpg",
+    "stock": 30,
+    "category": "Eyewear"
+  },
+  {
+    "name": "Reading Glasses",
+    "description": "Comfortable and stylish reading glasses.",
+    "price": 29.99,
+    "image": "reading.jpg",
+    "stock": 25,
+    "category": "Eyewear"
+  },
+  {
+    "name": "Sport Shades",
+    "description": "Durable sunglasses for sports.",
+    "price": 54.99,
+    "image": "sport.jpg",
+    "stock": 10,
+    "category": "Eyewear"
+  }
+]
