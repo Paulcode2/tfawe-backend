@@ -20,7 +20,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      // "https://tfawe-frontend.onrender.com",
+      "https://tfawe-frontend.onrender.com",
       "https://tfawe-revamp.vercel.app",
     ],
     credentials: true,
